@@ -1,8 +1,18 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Mike Bernal and I am an aspiring developer. I am an ECU CS student majoring in SE.
+My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE.
 
-I am interested in learning and practicing agile methodology, cloud services, container deployments and orchestration, clean architecture, event sourcing, CQRS, microservices, mff, and more.
+I am interested in learning and practicing agile methodology, cloud services, container deployments,  orchestration, clean architecture, event sourcing, CQRS, microservices, mff, golden showers, and more.
+
+I have 3️⃣ goals in life.
+
+I am currently broke that is why I'm literally fueled by ramen. My other diet consists of eggs, beans, and low self-esteem women with daddy issues. So don't fight me or I will die.
+
+I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch and more.
+
+My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being.
+
+Current L.S.S.: https://www.youtube.com/watch?v=4NRXx6U8ABQ
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VS_CODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -31,5 +41,9 @@ I am interested in learning and practicing agile methodology, cloud services, co
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikebernal&repo=mypetstore)](https://github.com/mikebernal/mypetstore)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikebernal&repo=guitar-tuner)](https://github.com/mikebernal/guitar-tuner) -->
 
+
+Message me if you are interested in sponsoring my career journey at https://onlyfans.com/mikebernal. Noods Inside :ramen:. 
+
+Thank you so so so much for reading my page. ☮️
 <!-- 
 hosted with ❤ by GitHub -->
