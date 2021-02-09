@@ -6,7 +6,7 @@ I am interested in learning and practicing agile methodology, cloud services, co
 
 I have 3️⃣ goals in life.
 
-I am currently broke that is why I'm literally fueled by ramen. My other diet consists of eggs, beans, and low self-esteem women with daddy issues. So don't fight me or I will die.
+I am currently broke that is why I'm literally fueled by ramen. My other diet consists of eggs, beans, and low self-esteem young women with daddy issues. So don't fight me or I will die.
 
 I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch and more.
 
