@@ -1,6 +1,6 @@
 
 # Hello, folks! 👋🏽
-My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE.
+My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE. I am pretty sure SE stands for sex education or else I would really be disappointed. -_-
 
 I am interested in learning and practicing agile methodology, cloud services, container deployments,  orchestration, clean architecture, event sourcing, CQRS, microservices, mff, golden showers, and more.
 
