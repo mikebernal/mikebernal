@@ -42,7 +42,7 @@ Current L.S.S.: https://www.youtube.com/watch?v=4NRXx6U8ABQ
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikebernal&repo=guitar-tuner)](https://github.com/mikebernal/guitar-tuner) -->
 
 
-Message me if you are interested in sponsoring my career journey at https://onlyfans.com/mikebernal. Noods Inside :ramen:. 
+Message me if you are interested in sponsoring my career journey at https://onlyfans.com/mikebernal a.k.a. 6 inches. Noods Inside :ramen:. 
 
 Thank you so so so much for reading my page. ☮️
 <!-- 
