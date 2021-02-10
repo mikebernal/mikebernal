@@ -1,6 +1,6 @@
 
 # Hello, folks! 👋🏽
-My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE. I am pretty sure SE stands for sex education or else I would really be disappointed. -_-
+My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE.
 
 I am interested in learning and practicing agile methodology, cloud services, container deployments,  orchestration, clean architecture, event sourcing, CQRS, microservices, mff, golden showers, and more.
 
@@ -10,7 +10,7 @@ I am currently broke that is why I'm literally fueled by ramen. My other diet co
 
 I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch and more.
 
-My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being. (Psychosocial)
+My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being.
 
 Current L.S.S.: https://www.youtube.com/watch?v=4NRXx6U8ABQ
 
