@@ -12,7 +12,7 @@ I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili 
 
 My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being.
 
-Current L.S.S.: https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Current L.S.S.: https://www.youtube.com/watch?v=iJCV_2H9xD0
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VS_CODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
