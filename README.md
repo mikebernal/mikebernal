@@ -8,7 +8,7 @@ I have 3️⃣ goals in life.
 
 I am currently broke that is why I'm literally fueled by ramen. My other diet consists of eggs, beans, and low self-esteem young women with daddy issues. So don't fight me alright.
 
-I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch and more.
+I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Eheads, Faspitch and more.
 
 My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being.
 
