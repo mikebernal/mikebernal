@@ -23,7 +23,9 @@ Current L.S.S.: https://www.youtube.com/watch?v=_8htAULV2Lo
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/CODE-.NET_CORE_WEB-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-<p>You can check me on <a href="https://linkedin.com/in/bernalmike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mikebernal" height="30" width="30" /></a>
+<p>You can check me on <a href="https://linkedin.com/in/bernalmike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mikebernal" height="30" width="30" /></a> and <a href="https://dev.to/mikebernal">
+  <img align="center"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike Bernal SP0701's DEV Community Profile" height="30" width="30">
+</a>   
 </p>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikebernal&show_icons=true" alt="mikebernal" />
