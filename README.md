@@ -2,7 +2,7 @@
 # Hello, folks! 👋🏽
 My name is Mike Bernal and I love❤️ Marione Fides🦄 Forever ♾️ and she is 6 🖐️ ☝️. I am currently studying at ECU studying computer science majoring in SE.
 
-I am interested in learning and practicing agile methodology, cloud services, container deployments,  orchestration, clean architecture, event sourcing, CQRS, microservices, mff, golden showers, and more. I am currently broke that is why I'm literally fueled by ramen.
+I am interested in learning and practicing agile methodology, cloud services, container deployments,  orchestration, clean architecture, event sourcing, CQRS, microservices, and mff. I am currently broke that is why I'm literally fueled by ramen.
 
 I have 3️⃣ goals in life.
 
