@@ -13,7 +13,9 @@ My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird p
 L.S.S. https://www.youtube.com/watch?v=7at110cEohs
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VS_CODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-PHPSTORM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-WORDPRESS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-DRUPAL_8-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
