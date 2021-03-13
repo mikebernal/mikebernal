@@ -6,11 +6,11 @@ I am interested in learning and practicing agile methodology, cloud services, co
 
 I have 3️⃣ goals in life.
 
-I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch, and The Smashing Pumpkins. 🎃
+I listen to all kinds of music but I enjoy listening to Paramore, Red Hot Chili Peppers, Faspitch, the Smashing Pumpkins🎃. 
 
 My favorite T.V. shows are Better Call Saul and The Walking Dead. I am a weird person so if you notice me not interacting with you don't be worried, my mind is just day dreaming and don't have the social intellect to interact with a normal living being.
 
-L.S.S. https://www.youtube.com/watch?v=7at110cEohs
+L.S.S. https://www.youtube.com/watch?v=iJCV_2H9xD00cEohs
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
